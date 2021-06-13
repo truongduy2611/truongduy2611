@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 * 📫 How to reach me: truongduy2611@gmail.com.
 
-![zmtzawqlp's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=truongduy2611&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![truongduy2611's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=truongduy2611&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
